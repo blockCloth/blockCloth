@@ -1,29 +1,83 @@
 <h1 align="center">Hi 👋, I'm Dai Yuxuan</h1>
-<h3 align="center">👋 Hi, 正在专注于Java后端开发的学习。我对设计和实现高效的后端服务充满兴趣，并且在学术和项目中积累了丰富的实战经验。</h3>
+<h3 align="center">Java 后端开发学习者 | 追求高效与优雅的代码设计</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=blockcloth&label=Profile%20views&color=0e75b6&style=flat" alt="blockcloth" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=blockcloth&label=Profile%20views&color=0e75b6&style=flat" alt="blockcloth" /> </p>
 
-- 🔭 I’m currently working on [CodingBlog](https://github.com/blockCloth/codingblog)
-
-- 🌱 I’m currently learning **Data Structure，SpringCloud，SQL**
-
-- 👯 I’m looking to learning on [EasyDB](https://github.com/blockCloth/EasyDB)
-
-- 👨‍💻 All of my projects are available at [https://github.com/blockCloth](https://github.com/blockCloth)
-
-- 📝 I regularly write articles on [https://blockcloth.cn](https://blockcloth.cn)
-
-- 💬 Ask me about **Java，MySQL，EasyDB**
-
-- 📫 How to reach me **blockclothsword@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <a href="https://github.com/blockCloth/codingblog">
+    <img src="https://img.shields.io/badge/Project-CodingBlog-brightgreen" alt="CodingBlog">
+  </a>
+  <a href="https://github.com/blockCloth/EasyDB">
+    <img src="https://img.shields.io/badge/Project-EasyDB-blue" alt="EasyDB">
+  </a>
+  <a href="https://github.com/blockCloth">
+    <img src="https://img.shields.io/github/followers/blockcloth?label=Follow&style=social" alt="GitHub Followers">
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=blockcloth&show_icons=true&locale=en&layout=compact" alt="blockcloth" /></p>
+## 🌟 关于我
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blockcloth&" alt="blockcloth" /></p>
+我是一个充满好奇心和创造力的 Java 后端开发学习者，，热爱学习并乐于探索后端开发的各种技术。在学习中，我致力于设计高效、可扩展的后端服务，并且注重代码的优雅与简洁。
+- 📝 我喜欢在 [https://blockcloth.cn](https://blockcloth.cn) 记录和分享我的学习与思考。
+- 🌱 正在学习 **数据结构、SpringCloud、SQL**，提升自己的技术栈。
+- 👯 希望深入了解 [EasyDB](https://github.com/blockCloth/EasyDB)，学习并优化数据库管理的相关知识。
+
+---
+
+## 🔧 技能与工具
+
+- **语言**: Java, JavaScript, HTML, SQL
+- **框架**: Spring, Spring Boot, Spring Cloud
+- **数据库**: MySQL, EasyDB
+- **开发工具**: IntelliJ IDEA, Maven, Docker
+- **操作系统**: Linux, Windows
+- **版本控制**: Git, GitHub
+
+<p align="center">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  </a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+## 🎯 目前目标
+
+- **掌握高级 Java 编程技巧**: 通过深入研究 Spring 框架，掌握更多的设计模式和架构设计技巧。
+- **参与开源项目**: 通过参与和贡献开源项目，提升自己的实际开发能力，并为社区做出贡献。
+- **学习数据结构与算法**: 强化自己的算法能力，为解决复杂问题提供更好的思维方式。
+
+---
+
+## 📈 我的 GitHub 数据
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=blockcloth&show_icons=true&locale=en&layout=compact" alt="blockcloth" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=blockcloth&" alt="blockcloth" />
+</p>
+
+---
+
+## 📫 联系我
+
+- **Email**: blockclothsword@gmail.com
+- **GitHub**: [https://github.com/blockCloth](https://github.com/blockCloth)
+
+---
